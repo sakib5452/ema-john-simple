@@ -31,6 +31,10 @@
     bottom: 0px;
 }
 
+.btn-cart:hover {
+    background-color: orange;
+}
+
 .product-name {
     font-family: 'Lato';
     font-style: normal;
